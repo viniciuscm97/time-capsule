@@ -1,0 +1,12 @@
+npm init
+npm install typescript
+npx tsc --init
+
+txs - roda TS dentro do node
+npx prisma init
+npx prisma migrate dev - att db com as atualizacoes do arquivo prisma
+migration (msg) = commit -m 
+npx prisma studio - interface de visualizacao do banco
+
+npx create-next-app@latest nextjs-blog --use-npm
+npx create-expo-app mobile  - CRIAR PROJECTO NATIVE
